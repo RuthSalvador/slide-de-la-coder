@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  padding: 40px 100px 0px;
+  background-image: url("../img/fondo-vintage.jpg");
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  color: #7b2c80;
+}
+
+nav{
+  float: left;
+}
+
+main{
+  font-size: 20px;
+}
+
+div{
+  float: inherit;
+}
+
+button{
+  width: 250px;
+  height: 60px;
+  font-family: 'Lobster', cursive;
+  background-color: #c2b4bf;
+  color: #ffffff;
+  font-size: 45px;
+}
+
+footer{
+  background-color: #c2b4bf;
+  margin-top: 400px;
+  font-size: 30px;
+}
